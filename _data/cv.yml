@@ -1,10 +1,10 @@
 cv:
-  name: Juan P Villegas
-  label: docente
-  email: jp@example.com
-  location: Medellín, NJ
+  name: Juan Pablo Villegas
+  label: Investigador / Docente
+  email: juanvillegas@itm.edu.co
+  location: Medellín, Colombia
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Soy docente e investigador en potencia
 
   social_networks:
     - network: X
