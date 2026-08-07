@@ -1,14 +1,14 @@
 cv:
   name: Juan P Villegas
-  label: Scientist
+  label: docente
   email: jp@example.com
-  location: Princeton, NJ
+  location: Medellín, NJ
   image: ""
   summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: Juan Pablo
     - network: GitHub
       username: example
     - network: LinkedIn
