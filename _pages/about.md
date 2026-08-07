@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Intitución Universitaria ITM</a>.
 
 profile:
   align: right
@@ -31,9 +31,12 @@ latest_posts:
 
 Actualmente formo parte del **[Nombre del Laboratorio o Grupo de Investigación o Empresa]**, donde trabajo en el área de…
 
- ### 🔬 Áreas de Interés 
+Áreas de Interés 
 - **[Área 1]:** (Ejemplo: Control de Sistemas / Electrónica de Potencia) 
 - **[Área 2]:** (Ejemplo: Sistemas Embebidos y Programación de Microcontroladores) 
 - **[Área 3]:** (Ejemplo: Optimización / Inteligencia Artificial)
 
-### 🎯 Objetivos Actuales - 📌 Desarrollar el proyecto de grado / portafolio en **[Tema de tu proyecto]**. - 🛠️ Aprender herramientas como **[Ej. Python, MATLAB, C++, Git, CADI/PCB Design]**. - 🤝 Colaborar en iniciativas del laboratorio y divulgación académica.
+Objetivos Actuales 
+- 📌 Desarrollar el proyecto de grado / portafolio en **[Tema de tu proyecto]**.
+- 🛠️ Aprender herramientas como **[Ej. Python, MATLAB, C++, Git, CADI/PCB Design]**.
+- 🤝 Colaborar en iniciativas del laboratorio y divulgación académica.
