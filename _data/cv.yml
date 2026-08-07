@@ -1,10 +1,10 @@
 cv:
   name: Juan Pablo Villegas
-  label: Investigador / Docente
+  label: Researcher
   email: juanvillegas@itm.edu.co
   location: Medellín, Colombia
-  image: ""
-  summary: Soy docente e investigador en potencia
+  #image: ""
+  #summary: Soy docente e investigador en potencia
 
   social_networks:
     - network: X
@@ -14,12 +14,12 @@ cv:
     - network: LinkedIn
       username: example
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  #address:
+  #  street: 2712 Broadway St
+  #  city: San Francisco
+  #  region: California
+  #  postalCode: CA 94115
+  #  countryCode: US
 
   sections:
     Education:
